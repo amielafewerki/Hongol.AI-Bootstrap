@@ -17,3 +17,7 @@ html {
 .container {
   background-color: #D9D9D9
 }
+
+.nav-link {
+  color: white
+}
