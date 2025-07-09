@@ -8,16 +8,17 @@ html {
   padding: 100px 0;
   text-align: center;
   margin-top: 20px;
-)
+}
   
 .navbar-brand {
   font-weight: bold;
+  color: white !important;
 }
 
 .container {
-  background-color: #D9D9D9
+  background-color: #D9D9D9;
 }
 
 .nav-link {
-  color: white
+  color: white !important;
 }
